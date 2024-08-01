@@ -1,4 +1,4 @@
-The source code provides a way to connect Sitecore OrderCloud with OpenAI Assistant.
+The source code provides a way to connect Sitecore OrderCloud with OpenAI Assistant using Dot Net framework.
 
 The soucre code is for reference. Actual implementation may differ and will depend on the project.
 
